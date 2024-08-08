@@ -1,3 +1,14 @@
 whisperx.egg-info/
 **/__pycache__/
 .ipynb_checkpoints
+
+.idea
+build
+dist
+
+**/*.log
+**/*.json
+**/*.srt
+**/*.tsv
+**/*.txt
+**/*.vtt
